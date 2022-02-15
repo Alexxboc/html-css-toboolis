@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    
+    
+    
+    
+    
+}
+
+.logo {
+    display: inline-block;
+    padding: 20px;
+    
+}
+
+.logo img {
+   width: 70px; 
+   
+   
+}
+
+.title {
+    font-size: 50px;
+    margin-left: 10px;
+    line-height: 10px;
+    
+    
+}
