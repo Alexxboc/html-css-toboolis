@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+    
+}
+
+body {
+    background-color: #F6F8F9;
+}
+
+header {
+    background-color: white;
+}
+
+.logo {
+    padding: 20px;
+    
+}
+
+.logo img {
+   height: 70px; 
+   vertical-align: middle;
+   
+   
+}
+
+.title {
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 0px;
+    line-height: 70px;
+    vertical-align: middle;
+}
+
+main {
+    width: 1500px;
+    margin: auto;
+}
+#site_nav {
+    
+    margin-top: 50px;
+    padding: 10px;
+    background-color: white;
+}
+
+.button{
+    border-radius: 5px;
+    width: fit-content;
+    margin-left: 40px;
+    
+
+   
+}
+
+.button div {
+    display: inline-block;
+}
+#task {
+    text-align: center;
+    color: white;
+    background-color: #14AAF5;
+    padding: 6px;
+    border-radius: 5px
+    
+}
+
+#section {
+    text-align: center;
+    color: lightgray;
+    padding: 6px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    margin-left: 2px;
+}
+
+.section_container {
+    /* margin-top: 2px; */
+    margin-top: 2px;
+    padding-bottom: 30px;
+    width: 1500px;
+    background-color: white;
+}
+
+.text{
+    color: #434851;
+    margin-left: 40px;
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.subtitles {
+    color: #434851;
+    margin-left: 40px;
+    margin-top: 5px;
+    padding: 5px;
+
+}
+
+h4 {
+    display: inline-block;
+    padding: 5px;
+}
+
+.checkmark, .cross {
+    font-size: 10px;
+    text-align: center;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: white;
+    border: 1px solid #42CCB4;
+    color: #42CCB4;
+    
+}
+
+.cross {
+    color: #FF1B1B;
+}
+
+.color-text {
+    font-size: 10px;
+    border-radius: 15px;
+    width: fit-content;
+    text-align: center;
+    color: white;
+    background-color: #14AAF5;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+    
+/*
+Text: #434851
+Subtitles: #434851
+check mark green: #42CCB4
+cross mark red: #FF1B1B
+Background: #F6F8F9
+Blue: #14AAF5
+Purple: #AB5DE6
+green: #2CC6AB
+Pistacchio: #A3D116
+orange: #FF9B00
+pink: #EC4A9D
+&#10008; &#10003;
+ */
+
+
+
+
+
