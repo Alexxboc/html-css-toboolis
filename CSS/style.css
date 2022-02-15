@@ -31,10 +31,13 @@ header {
     vertical-align: middle;
 }
 
-#site_nav {
-     margin: auto; 
-    margin-top: 50px;
+main {
     width: 1500px;
+    margin: auto;
+}
+#site_nav {
+    
+    margin-top: 50px;
     padding: 10px;
     background-color: white;
 }
@@ -67,6 +70,44 @@ header {
     border: 1px solid lightgrey;
     border-radius: 5px;
     margin-left: 2px;
+}
+
+.section_container {
+    /* margin-top: 2px; */
+    margin-top: 2px;
+    padding-bottom: 30px;
+    width: 1500px;
+    background-color: white;
+}
+
+.text{
+    margin-left: 40px;
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.subtitles {
+    margin-left: 40px;
+    margin-top: 5px;
+    padding: 5px;
+
+}
+
+.checkmark {
+    color: green;
+}
+
+.color-text {
+    font-size: 8px;
+    border-radius: 15px;
+    width: fit-content;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    padding: 8px;
+    
+    
 }
 
 
