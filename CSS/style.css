@@ -29,7 +29,8 @@ header {
 
 .title {
     font-size: 50px;
-    margin-left: 10px;
+    font-weight: bold;
+    margin-left: 0px;
     line-height: 70px;
     vertical-align: middle;
 }
